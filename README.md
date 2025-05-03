@@ -1,4 +1,5 @@
 <h1>Hi, I'm Mulkah! </h1>
+<b>Hi, I am Mulkah Akala. I'm currently training as a backend software developer at ALX, driven by a passion for solving real-world problems with technology. My background is in Computer Science—I have both a BSc and MSc—but my transition into software development came after taking a step back to assess my strengths and interests.  Looking ahead, my goal over the next 3-5 years is to create health tech and family-oriented solutions that improve everyday lives. I’m excited for the journey, always eager to learn, build, and collaborate!</b>
 
 <h2>👨‍💻 Projects:</h2>
 - <b>ALX Professional Foundation</b>
