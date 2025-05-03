@@ -20,7 +20,7 @@ My background in education, nutrition, and tech gives me a unique lens: I want t
 - 🌱 Currently learning: Shell scripting, Git & GitHub, low-level programming
 - 📚 Upcoming skills: Python, Flask, APIs, SQL, system design
 - 🎯 Goal: Master backend engineering and apply it to real problems in Health & Education
-
+```
 💡 Why I Started This Journey
 I believe that technology should improve lives. As a mum of two, I care deeply about how we raise, feed, and educate children. That’s why I'm inspired to create:
 
@@ -40,4 +40,3 @@ To be recognized as a backend engineer building impactful HealthTech and EdTech 
 
 📬 Let’s Connect!
 <p> <a href="https://www.linkedin.com/in/mulkahakala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a> <a href="mailto:mulkah.akala@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"></a> <a href="https://github.com/mulkahakala"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a> </p>
-
