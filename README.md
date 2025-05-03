@@ -1,37 +1,43 @@
-<h1>Hi, I'm Mulkah! </h1>
-<b>Hi, I am Mulkah Akala. I'm currently training as a backend software developer at ALX, driven by a passion for solving real-world problems with technology. My background is in Computer Science—I have both a BSc and MSc—but my transition into software development came after taking a step back to assess my strengths and interests.  Looking ahead, my goal over the next 3-5 years is to create health tech and family-oriented solutions that improve everyday lives. I’m excited for the journey, always eager to learn, build, and collaborate!</b>
+<h1 align="center">Hi 👋🏽, I'm Mulkah Akala</h1>
 
-<h2>👨‍💻 Projects:</h2>
-- <b>ALX Professional Foundation</b>
-  - [GCGOs: Practicing design thinking to solve a global problem]([https://docs.google.com/presentation/d/1BCiXDbIZnA3UijuAzEQNAXx8j-Tej_VI9KVyPG-xGiY/edit#slide=id.g33df4dba4a4_2_99])
+<p align="center">
+  🌍 Backend Engineering Learner @ ALX | 💡 Passionate about HealthTech + EdTech | 🧠 Committed to building solutions for African families
+</p>
 
-- <b>Software Development Projects</b>
-  - To be added soon
+---
 
-<h2>📺 Certifications</h2>
+### 👩🏽‍💻 Who I Am
 
+I'm currently on a transformative journey through the ALX Software Engineering program, where I'm learning the fundamentals of backend development — from algorithms to databases and server-side logic.
 
-<h2> 🤳 Connect with me:</h2>
+My background in education, nutrition, and tech gives me a unique lens: I want to build **real-world solutions that nourish and educate African families.**
 
+---
 
-[<img align="left" alt="horpehyemmmy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="horpehyemmmy_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🧠 My Learning Focus
 
-[twitter]: https://twitter.com/horpehyemmmy
-[instagram]: https://www.instagram.com/horpehyemmmy_/
-[linkedin]: [https://linkedin.com/in/mulkahakala]
-<!--
-**Mulkah-dev/Mulkah-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+- 🌱 Currently learning: Shell scripting, Git & GitHub, low-level programming
+- 📚 Upcoming skills: Python, Flask, APIs, SQL, system design
+- 🎯 Goal: Master backend engineering and apply it to real problems in Health & Education
 
-Here are some ideas to get you started:
+💡 Why I Started This Journey
+I believe that technology should improve lives. As a mum of two, I care deeply about how we raise, feed, and educate children. That’s why I'm inspired to create:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥦 Apps that help families make healthier food choices
+
+📘 Tools that support flexible, holistic learning for children
+
+🌍 Platforms that reflect African realities and solve local challenges
+
+⚒️ Technologies I’m Learning
+Languages:     Python (learning) • Bash
+Tools:         Git • GitHub • Shell • VS Code
+Coming Soon:   Flask • PostgreSQL • Docker • REST APIs
+
+🧭 My Aspiration
+To be recognized as a backend engineer building impactful HealthTech and EdTech platforms tailored to African families.
+
+📬 Let’s Connect!
+<p> <a href="https://www.linkedin.com/in/mulkahakala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a> <a href="mailto:mulkah.akala@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"></a> <a href="https://github.com/mulkahakala"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"></a> </p>
+
